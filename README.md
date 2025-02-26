@@ -6,7 +6,7 @@
 - raspberryjammod (https://github.com/arpruss/raspberryjammod)
 - libfreenect (https://github.com/OpenKinect/libfreenect)
 
-(I may be missing something, it's been over a year since I wrote the program.) 
+(I may be missing something, it's been nearly a year since I wrote the program.) 
 
 ## Future plans:
 - Clean up/add comments
