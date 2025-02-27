@@ -2,7 +2,7 @@
 ## Dependencies: 
 - Python 3 (https://www.python.org/downloads/)
 - Minecraft Java Edition (https://minecraft.net/)
-- Forge 1.12.2 (https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)
+- Forge 1.12.2 (https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
 - raspberryjammod (https://github.com/arpruss/raspberryjammod)
 - libfreenect (https://github.com/OpenKinect/libfreenect)
 
